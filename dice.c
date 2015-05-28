@@ -41,7 +41,7 @@ int main(int argc, char *argv[])
       printf("d%d:\t%d\n", sides, randNum);
    }
 
-   printf("Total:\t%d\n", total);
+   printf("Total :\t%d\n", total);
 
    return 0;
 }
